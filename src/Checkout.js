@@ -21,7 +21,6 @@ function Copyright() {
       <Link color="inherit" href="https://www.linkedin.com/in/dhananjaypurohit/">
         Dhananjay Purohit
       </Link>{' '}
-      {'.'}
     </Typography>
   );
 }
